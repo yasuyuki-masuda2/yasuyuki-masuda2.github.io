@@ -251,14 +251,14 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #14c0c9;
+    background-color: #C24C15;
 }
 #skills h3
 {
     font-size: 2.4rem;
     font-weight: bold;
     margin-bottom: 10px;
-    color: #14c0c9;
+    color: #C24C15;
 }
 
 
@@ -403,7 +403,7 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
            border-radius: 50%;
-    background-color: #14c0c9;
+    background-color: #C24C15;
 }
 #contact ul a:hover
 {
